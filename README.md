@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Learn the simplest way to build a contact form using Next.js, Shadcn, and Resend.
+
 ## Getting Started
 
 First, run the development server:
